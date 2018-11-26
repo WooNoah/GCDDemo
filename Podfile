@@ -6,6 +6,8 @@ target 'testOperation' do
   # use_frameworks!
 
   pod 'AFNetworking'
+  pod 'SDWebImage'
+  pod 'Masonry'
   # Pods for testOperation
 
 end
